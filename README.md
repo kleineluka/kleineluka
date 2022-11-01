@@ -1,6 +1,6 @@
 ✨ henlo :)
 <br>
-you can find some more info about me on my website.. luka.moe 🌙
+you can find some more info about me on my website.. http://www.luka.moe 🌙
 <br>
 i like to make shaders (h/glsl) but also work in web, java, csharp, and cpp! 👩🏼‍💻
 <br>
