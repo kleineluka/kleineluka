@@ -1,6 +1,7 @@
 ✨ henlo :)
 <br>
 - my name is zoey (username is luka) and i am a uni student who likes gaming 🥺👉👈
+- characters that are literally me: princess bubblegum, ty lee, riamu, starfire 👑
 - i'm a girl and i am comfortable with english or deutsch 🫶
 - you can find some more info about me on my [website..](http://www.luka.moe) 🌙
 - i like gpu programming but have experience in a lot of other fields! 👩🏼‍💻
