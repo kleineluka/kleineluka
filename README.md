@@ -7,4 +7,4 @@
 - some of my current projects are a [Unity post-processing library](www.luka.moe/june), an [ML-upscaler for Unity](https://luka.moe/magicbounce), and a whole lot of other stuff.. 🌈
 - a lot of my programs are not open-sourced, so my github is not a complete portfolio and i apologize for this! 👻
 - please feel free to reach out to me either by Discord (lukalovesyou) or email (lukazoeysong[at][gmail][dot][com])! 🥂
-- i am *literally* trixie lulamoon, sonata dusk, ty lee, and princess bubblegum 👑
+- i am *literally* trixie lulamoon, sonata dusk, ty lee, starfire, and princess bubblegum 👑
