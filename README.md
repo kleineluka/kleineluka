@@ -11,4 +11,6 @@
 - but.. i know that performance matters behind the scenes (rust, c# and java) ! 🧃
 - reverse engineering and modding breathe new life into projects 🐸
 
-<img src="blinkie.gif" alt="Luka Blinkie">
+<a href="https://www.luka.moe">
+  <img src="blinkie.gif" alt="Luka Blinkie">
+</a>
