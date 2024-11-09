@@ -10,3 +10,5 @@
 - i enjoy programming pretty things (G/HLSL and web front-ends) 🌼
 - but.. i know that performance matters behind the scenes (rust, c# and java) ! 🧃
 - reverse engineering and modding breathe new life into projects 🐸
+
+<img src="blinkie.gif" alt="Luka Blinkie">
