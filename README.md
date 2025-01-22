@@ -4,6 +4,7 @@
 - i am comfortable with **english** or **deutsch** 🫶
 - you can contact me on **discord** at **kleineluka** 🍨
 - when not writing "code" - **succubus cosplayer** ✨
+- i am literally ashley graves and adagio dazzle 💗
 
 
 🌈 **and what do i do?**
