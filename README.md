@@ -9,9 +9,9 @@
 
 🌈 **and what do i do?**
 <br>
-- i enjoy programming pretty things (G/HLSL and web front-ends) 🌼
-- but.. i know that performance matters behind the scenes (rust, c# and java) ! 🧃
-- reverse engineering and modding breathe new life into projects 🐸
+- i enjoy programming pretty but fast things (G/HLSL and Rust) 🌼
+- i think reverse engineering and modding breathe new life into projects 🐸
+- notable projects: June Shader, SafeSpace Shader, Burial (TCOAAL Mod Manager) 🦄
 
 <br>
 <a href="https://www.luka.moe">
