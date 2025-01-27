@@ -11,7 +11,7 @@
 <br>
 - i enjoy programming pretty but fast things (G/HLSL and Rust) 🌼
 - i think reverse engineering and modding breathe new life into projects 🐸
-- notable projects: June Shader, SafeSpace Shader, Burial (TCOAAL Mod Manager) 🦄
+- notable projects: june shader, safespace shader, tcoaal mod manager 🦄
 
 <br>
 <a href="https://www.luka.moe">
