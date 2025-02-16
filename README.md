@@ -19,7 +19,11 @@
 - [MagicBounce](https://www.luka.moe/magicbounce), a Unity extension for upscaling textures 🐈‍⬛
 
 <br>
-<a href="https://www.luka.moe">
-  <img src="blinkie.gif" alt="Luka Blinkie">
+cute websites of mine:
+<br>
+<a href="https://luka.moe">
+  <img src="luka_blinkie.gif" alt="Luka.moe Blinkie">
 </a>
-  <-- cute website, trust me
+<a href="https://succubus.cafe">
+  <img src="succubus_blinkie.gif" alt="Succubus.cafe Blinkie">
+</a>
