@@ -9,14 +9,14 @@
 🌈 **and what do i do?**
 <br>
 - i enjoy programming pretty but fast things (G/HLSL and Rust) 🌼
-- i think reverse engineering and modding breathe new life into projects 🐸
+- i believe reverse engineering and modding breathe new life into projects 🐸
 
 🦄 **some of my notable works..**
 <br>
-- [June](https://www.luka.moe/june), a custom Unity post-processing stack 📸
-- [Burial](https://www.luka.moe/burial), a one-stop-shop for TCOAAL modding 🔪
-- [SafeSpace](https://kleineluka.gumroad.com/l/safespace), a system of shaders to filter other shaders ⛺
-- [MagicBounce](https://www.luka.moe/magicbounce), a Unity extension for upscaling textures 🐈‍⬛
+- [June](https://www.luka.moe/june) (creator), a custom Unity post-processing stack 📸
+- [Burial](https://www.luka.moe/burial) (creator), a one-stop-shop for TCOAAL modding 🔪
+- [SafeSpace](https://kleineluka.gumroad.com/l/safespace) (creator), a system of shaders to filter other shaders ⛺
+- [MagicBounce](https://www.luka.moe/magicbounce) (creator), a Unity extension for upscaling textures 🐈‍⬛
 
 <br>
 cute websites of mine:
