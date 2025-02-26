@@ -14,7 +14,7 @@
 🦄 **some of my notable works..**
 <br>
 - [June](https://www.luka.moe/june) (Creator, HLSL/C#), a custom Unity post-processing stack 📸
-- [Burial](https://www.luka.moe/burial) (Creator, Rust/JS), a one-stop-shop for TCOAAL modding 🔪
+- [Burial](https://www.luka.moe/burial) (Creator, Rust/JS/RE), a one-stop-shop for TCOAAL modding 🔪
 - [SafeSpace](https://kleineluka.gumroad.com/l/safespace) (Creator, HLSL), a system of shaders to filter other shaders ⛺
 - [MagicBounce](https://www.luka.moe/magicbounce) (Creator, C#/ML), a Unity extension for upscaling textures 🐈‍⬛
 
