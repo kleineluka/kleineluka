@@ -1,4 +1,4 @@
-✨ **henlo :)**
+✨ **henlo :)** to learn more about me, please see my [website](https://luka.moe)!
 <br>
 - my name is **zoey** (username is **luka**, like the vocaloid) 🌺 
 - i am comfortable with **english** or **deutsch** 🫶
