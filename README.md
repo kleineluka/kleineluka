@@ -1,10 +1,9 @@
-✨ **henlo :)** to learn more about me, please see my [website](https://luka.moe)!
+✨ **henlo :)** to learn more about me, please see my [portfolio website](https://luka.moe)!
 <br>
 - my name is **zoey** (username is **luka**, like the vocaloid) 🌺 
 - i am comfortable with **english** or **deutsch** 🫶
 - you can contact me on **discord** at **kleineluka** 🍨
-- when not writing "code" - **succubus cosplayer** ✨
-- i am literally ashley graves and adagio dazzle 💗
+- when not writing "code" - **cosplayer** ✨
 
 🌈 **and what do i do?**
 <br>
@@ -19,7 +18,7 @@
 - [MagicBounce](https://www.luka.moe/magicbounce) (Creator, C#/ML), a Unity extension for upscaling textures 🐈‍⬛
 
 <br>
-cute websites of mine:
+cute websites of mine (trust me, they're cute):
 <br>
 <a href="https://luka.moe">
   <img src="luka_blinkie.gif" alt="Luka.moe Blinkie">
