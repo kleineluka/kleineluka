@@ -1,4 +1,4 @@
-✨ **henlo :)** to learn more about me, please see my [portfolio website](https://luka.moe)!
+✨ **henlo :)** to learn more about me, please see my [website](https://luka.moe)!
 <br>
 - my name is **zoey** (username is **luka**, like the vocaloid) 🌺 
 - i am comfortable with **english** or **deutsch** 🫶
@@ -8,14 +8,17 @@
 🌈 **and what do i do?**
 <br>
 - i enjoy programming pretty but fast things (G/HLSL and Rust) 🌼
+- i have a deep love for video games, especially visual novels and rpg's 🎮
 - i believe reverse engineering and modding breathe new life into projects 🐸
 
 🦄 **some of my notable works..**
 <br>
 - [June](https://www.luka.moe/june) (Creator, HLSL/C#), a custom Unity post-processing stack 📸
 - [Burial](https://www.luka.moe/burial) (Creator, Rust/JS/RE), a one-stop-shop for TCOAAL modding 🔪
-- [SafeSpace](https://kleineluka.gumroad.com/l/safespace) (Creator, HLSL), a system of shaders to filter other shaders ⛺
+- [RoxStar](https://github.com/kleineluka/roxstar) and [Terra](https://github.com/kleineluka/terra) (Creator, Express/Node/JS), server emulators for abandoned Flash games 🧩
+- [Bakery](https://github.com/kleineluka/bakery) (Creator, Renpy/Python), various plug-and-play tools for visual novel games 📖
 - [MagicBounce](https://www.luka.moe/magicbounce) (Creator, C#/ML), a Unity extension for upscaling textures 🐈‍⬛
+- I've done *a lot* more, which you can learn about on my [resume here](https://luka.moe/resume)! 💗
 
 <br>
 cute websites of mine (trust me, they're cute):
