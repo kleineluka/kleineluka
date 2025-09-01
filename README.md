@@ -15,6 +15,7 @@
 <br>
 - [June](https://www.luka.moe/june) (Creator, HLSL/C#), a custom Unity post-processing stack 📸
 - [Burial](https://www.luka.moe/burial) (Creator, Rust/JS/RE), a one-stop-shop for TCOAAL modding 🔪
+- [Backlace](https://github.com/kleineluka/backlace) (Creator, HLSL), a feature-packed anime shader for Unity 🌈
 - [RoxStar](https://github.com/kleineluka/roxstar) and [Terra](https://github.com/kleineluka/terra) (Creator, Express/Node/JS), server emulators for abandoned Flash games 🧩
 - [Bakery](https://github.com/kleineluka/bakery) (Creator, Renpy/Python), various plug-and-play tools for visual novel games 📖
 - [MagicBounce](https://www.luka.moe/magicbounce) (Creator, C#/ML), a Unity extension for upscaling textures 🐈‍⬛
