@@ -8,8 +8,8 @@
 🌈 **and what do i do?**
 <br>
 - i enjoy programming pretty but fast things (G/HLSL and Rust) 🌼
-- i have a deep love for video games, especially visual novels and rpg's 🎮
 - i believe reverse engineering and modding breathe new life into projects 🐸
+- due to basically living online, writing and running servers is like breathing to me 🍂 
 
 🦄 **some of my notable works..**
 <br>
