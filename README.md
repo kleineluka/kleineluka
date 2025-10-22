@@ -19,6 +19,7 @@
 - [RoxStar](https://github.com/kleineluka/roxstar) and [Terra](https://github.com/kleineluka/terra) (Creator, Express/Node/JS), server emulators for abandoned Flash games 🧩
 - [Bakery](https://github.com/kleineluka/bakery) (Creator, Renpy/Python), various plug-and-play tools for visual novel games 📖
 - [MagicBounce](https://www.luka.moe/magicbounce) (Creator, C#/ML), a Unity extension for upscaling textures 🐈‍⬛
+- [Loser Named Hana](https://residentrabbit.itch.io/loser-named-hana) (Developer, Renpy/Python), a visual novel about a weird girl 🦴
 - I've done *a lot* more, which you can learn about on my [resume here](https://luka.moe/resume)! 💗
 
 <br>
