@@ -1,26 +1,15 @@
-✨ **henlo :)** to learn more about me, please see my [website](https://luka.moe)!
+🎀 **henlo :)** to learn more about me, please see my [website](https://luka.moe)!
 <br>
 - my name is **zoey** (username is **luka**, like the vocaloid) 🌺 
 - i am comfortable with **english** or **deutsch** 🫶
 - you can contact me on **discord** at **kleineluka** 🍨
-- when not writing "code" - **cosplayer** ✨
+- when not writing "code" - [**cosplayer**](https://succubus.cafe) 👗
 
-🌈 **and what do i do?**
+🫧 **and what do i do?**
 <br>
-- i enjoy programming pretty but fast things (G/HLSL and Rust) 🌼
-- i believe reverse engineering and modding breathe new life into projects 🐸
-- due to basically living online, writing and running servers is like breathing to me 🍂 
-
-🦄 **some of my notable works..**
-<br>
-- [June](https://www.luka.moe/june) (Creator, HLSL/C#), a custom Unity post-processing stack 📸
-- [Burial](https://www.luka.moe/burial) (Creator, Rust/JS/RE), a one-stop-shop for TCOAAL modding 🔪
-- [Backlace](https://github.com/kleineluka/backlace) (Creator, HLSL), a feature-packed anime shader for Unity 🌈
-- [RoxStar](https://github.com/kleineluka/roxstar) and [Terra](https://github.com/kleineluka/terra) (Creator, Express/Node/JS), server emulators for abandoned Flash games 🧩
-- [Bakery](https://github.com/kleineluka/bakery) (Creator, Renpy/Python), various plug-and-play tools for visual novel games 📖
-- [MagicBounce](https://www.luka.moe/magicbounce) (Creator, C#/ML), a Unity extension for upscaling textures 🐈‍⬛
-- [Loser Named Hana](https://store.steampowered.com/app/4055570) (Developer, Renpy/Python), a visual novel about a weird girl 🦴
-- I've done *a lot* more, which you can learn about on my [resume here](https://luka.moe/resume)! 💗
+- i enjoy programming pretty but fast things (like G/HLSL or Rust) 🌼
+- i love video games~ making them, taking them apart, and playing them of course! 💗
+- check out all my [projects here](https://luka.moe/projects) or [resume here](https://luka.moe/resume), and [contact me](https://luka.moe/contact) if ya wanna work together 🦄
 
 <br>
 cute websites of mine (trust me, they're cute):
