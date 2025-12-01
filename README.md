@@ -7,9 +7,9 @@
 
 🫧 **and what do i do?**
 <br>
-- i enjoy programming pretty but fast things (like G/HLSL or Rust) 🌼
-- i love video games~ making them, taking them apart, and playing them of course! 💗
-- check out all my [projects here](https://luka.moe/projects) or [resume here](https://luka.moe/resume), and [contact me](https://luka.moe/contact) if ya wanna work together 🦄
+- gpu fangirl, i enjoy programming pretty but fast things (like G/HLSL or Rust) 🌼
+- i love video games! making them, taking them apart, and playing them of course! 💗
+- check out all my [projects here](https://luka.moe/projects) or [resume here](https://luka.moe/resume), and [contact me](https://luka.moe/contact) if ya wanna work together~ 🦄
 
 <br>
 cute websites of mine (trust me, they're cute):
